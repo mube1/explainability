@@ -6,8 +6,8 @@ All of the notebooks contain explantions within them.
 
 ************************************************************************
 
-## 1: The Shapley values from scratch
-There is also a notebook that manualy implements shapley values for a simple function.
+## 1: Shapley values from scratch
+This notebook that manualy implements shapley values for a simple function.
 
 ## 2: How model compression damages explainabilty 
 This note book shows how compression damages explainabilty in a simple way. 
