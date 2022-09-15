@@ -6,4 +6,10 @@ To run, extract the mnist in the current dir.
 
 
 ************************************************************************
-There is also a notebook that manually implementss shapley values for a simple function
+
+## 1: The Shapley values from scratch
+There is also a notebook that manualy implements shapley values for a simple function
+
+## 2: How model compression damages explainabilty 
+This note book shows how compression damages explainabilty in a simple way. 
+It collects the dataset, defines and trains trains a model, compresses it using pruning and then comprares the explanations of the original and compressed model
