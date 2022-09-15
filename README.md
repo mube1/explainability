@@ -1,7 +1,7 @@
 # Explainability related stuff
 
 A collection of simple notebooks on explainability.
-All of the notebooks are contain explantions within them.
+All of the notebooks contain explantions within them.
 
 
 ************************************************************************
